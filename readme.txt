@@ -1,1 +1,1 @@
-Fixed confict!
+Fixed conflict!
